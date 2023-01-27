@@ -8,3 +8,5 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 To train the model, please run the train_script.py.
 
+![alt text](https://github.com/rm1768/cifar100-cnn/blob/main/cifar_result_71.jpg)
+
